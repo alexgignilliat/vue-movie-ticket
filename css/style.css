@@ -1,12 +1,8 @@
-/* Site-Wide Styles */
-
 html {
     font-size: 14px;
     font-family: 'Oxygen', sans-serif;
     background-color: #1b1b1b;
   }
-  
-  /* Header */
 
   .container {
       border: black 1px solid;
@@ -41,8 +37,6 @@ html {
     font-size: 1.28rem;
     font-weight: bold;
   }
-  
-  /* Form Elements */
   
   form {
     display: flex;
